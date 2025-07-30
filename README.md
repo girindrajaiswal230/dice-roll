@@ -15,7 +15,7 @@ I learned how to manage and preserve UI state using remember and mutableStateOf.
 
 🎨 5. Styling the UI with Modifiers
 Styling the components using modifiers like padding, fillMaxSize, clip, background, border, and size gave me a deeper understanding of layout control in Jetpack Compose. I also experimented with shapes, colors, and alignment to create a clean and user-friendly interface.
-<img width="361" height="806" alt="image" src="https://github.com/user-attachments/assets/3fe6abe9-92ea-4f6f-9720-cec8896a33ef" />
+<img width="350" height="600" alt="image" src="https://github.com/user-attachments/assets/3fe6abe9-92ea-4f6f-9720-cec8896a33ef" />
 
 
 🧱 6. Understanding Composable Function Structure
